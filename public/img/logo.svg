@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" width="250" height="60">
+  <rect width="500" height="120" rx="15" fill="#0275D8"/>
+  <circle cx="60" cy="60" r="35" fill="#ffffff" opacity="0.2"/>
+  <path d="M60 30 L85 65 L70 65 L70 90 L50 90 L50 65 L35 65 Z" fill="#ffffff"/>
+  <text x="110" y="72" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff">QVI Transfer</text>
+</svg>
